@@ -133,6 +133,7 @@ export default function Home() {
                 <a href="https://lu5jyeniktyoydat.public.blob.vercel-storage.com/CLARO%205G.apk" download>
                   <Button className="inline-flex items-center justify-center bg-green-600 text-white hover:bg-green-600/90">
                     <SmartphoneIcon className="mr-2 h-5 w-5" />
+
                     Descargar para Android
                   </Button>
                 </a>
